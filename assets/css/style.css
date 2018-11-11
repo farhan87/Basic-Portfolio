@@ -28,9 +28,9 @@ footer{
     background-color:#666666;
     text-align: center;
     color: white;
-    padding-bottom: 50px;
+    padding-bottom: 50%;
     border-top:7px solid #4aaaa5;
-    
+    display: block;
 }
 
 #about{
@@ -47,18 +47,19 @@ p{
 #menu{
     float: right;
     padding-bottom: -25px;
+    
 }
 
 #block{
-    padding-left: 235px;
+    padding-left: 50%;
     padding: 1px ;
-    margin-left: 215px;
-    margin-right: 800px;
+    margin-left: 17%;
+    margin-right: 60%;
     border: 1px solid #4aaaa5 ;
     background-color: #4aaaa5;
     color: white;
     text-align: center;
-    clear: both;
+   display: block;
     
 }
 
@@ -88,10 +89,10 @@ p{
 }
 
 .portf{
-    width: 150px;
-    height: 150px;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    margin-left: 5px;
-    margin-right: 5px;
+    width: 25%;
+    height: 25%;
+    margin-top: 1%;
+    margin-bottom: 1%
+    
+    
 }
