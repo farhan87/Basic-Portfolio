@@ -86,3 +86,12 @@ p{
     cursor: pointer;
     border-radius: 4px;
 }
+
+.portf{
+    width: 150px;
+    height: 150px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
