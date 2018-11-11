@@ -1,7 +1,7 @@
 #gre{
     border-top: solid gray;
     background-color:lightgray;
-    height: 400px;
+    height: 500px;
 }
 
 #inner{
@@ -9,8 +9,8 @@
     background-color: white;
     margin-left: 15%;
     margin-right: 15%;
-    margin-top: 3%;
-    margin-bottom: 3%;
+    margin-top: 1%;
+    margin-bottom: 1%;
     padding-left: 2%;
     padding-right: 2%;
     
@@ -59,4 +59,30 @@ p{
     color: white;
     text-align: center;
     clear: both;
+    
+}
+
+#name , #email  {
+          width: 100%; 
+          margin-top: 5px;
+          margin-bottom: 5px;
+          
+}
+
+#message{
+        width: 100%;
+        height: 100px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        resize: none;
+        
+}
+
+#submit{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    background-color: #4aaaa5;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
 }
