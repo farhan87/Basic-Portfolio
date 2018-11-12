@@ -99,11 +99,113 @@ p{
 } 
 
 .image{
-    width: 80%;
-   
+    width: 100%
 }
 
 header{
     display: inline-flex;
 }
 
+.img1  {
+    position: relative; 
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+  }
+  
+  .content1 {
+    position: absolute; /* Position the background text */
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    background: #4aaaa5;
+    
+    color: #f1f1f1; /* Grey text */
+    width: 150px; /* Full width */
+    text-align: center;
+  }
+
+  .img2  {
+    position: relative; 
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+  }
+  
+  .content2 {
+    position: absolute; /* Position the background text */
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    background: #4aaaa5;
+    
+    color: #f1f1f1; /* Grey text */
+    width: 150px; /* Full width */
+    text-align: center;
+  }
+
+  .img3  {
+    position: relative; 
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+  }
+  
+  .content3 {
+    position: absolute; /* Position the background text */
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    background: #4aaaa5;
+    
+    color: #f1f1f1; /* Grey text */
+    width: 150px; /* Full width */
+    text-align: center;
+  }
+
+
+  .img4  {
+    position: relative; 
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+  }
+  
+  .content4 {
+    position: absolute; /* Position the background text */
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    background: #4aaaa5;
+    
+    color: #f1f1f1; /* Grey text */
+    width: 150px; /* Full width */
+    text-align: center;
+  }
+
+
+  .img5  {
+    position: relative; 
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+  }
+  
+  .content5 {
+    position: absolute; /* Position the background text */
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    background: #4aaaa5;
+    
+    color: #f1f1f1; /* Grey text */
+    width: 150px; /* Full width */
+    text-align: center;
+  }
+
+  .img6  {
+    position: relative; 
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+  }
+  
+  .content6 {
+    position: absolute; /* Position the background text */
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    background: #4aaaa5;
+    
+    color: #f1f1f1; /* Grey text */
+    width: 150px; /* Full width */
+    text-align: center;
+  }
