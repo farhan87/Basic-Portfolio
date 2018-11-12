@@ -30,7 +30,7 @@ footer{
     color: white;
     padding-bottom: 50%;
     border-top:7px solid #4aaaa5;
-    display: block;
+   
 }
 
 #about{
@@ -45,22 +45,23 @@ p{
 }
 
 #menu{
-    float: right;
-    padding-bottom: -25px;
+    padding: 50px;
+    width: 1000px;
     
+    
+   
 }
 
 #block{
     padding-left: 50%;
     padding: 1px ;
-    margin-left: 17%;
-    margin-right: 60%;
+    margin-left: 18%;
+    margin-right: 30%;
     border: 1px solid #4aaaa5 ;
     background-color: #4aaaa5;
     color: white;
     text-align: center;
-   display: block;
-    
+    width: 100%;
 }
 
 #name , #email  {
@@ -91,8 +92,16 @@ p{
 .portf{
     width: 25%;
     height: 25%;
-    margin-top: 1%;
-    margin-bottom: 1%
     
+    display: inline-block;
     
+} 
+
+.image{
+    width: 80%;
+    margin: 0 auto;
+}
+
+header{
+    display: inline-flex;
 }
